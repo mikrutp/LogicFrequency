@@ -77,4 +77,5 @@ public class Main {
         String A = "I would love to work in global logic";
         solution.solution(A);
     }
+    
 }
